@@ -2,9 +2,9 @@
 <h3 align="center">A full stack developer from Poland</h3>
 
 
-- 👨‍💻 All of my projects are available at [denweb.pl](denweb.pl)
+- 👨‍💻 All of my projects are available at [https://denweb.pl](denweb.pl)
 
-- 📝 I regularly write articles on [blog.denweb.pl](blog.denweb.pl)
+- 📝 I regularly write articles on [https://blog.denweb.pl](blog.denweb.pl)
 
 - 📫 How to reach me **denis.culavdzic@gmail.com**
 
