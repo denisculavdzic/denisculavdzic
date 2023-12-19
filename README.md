@@ -1,7 +1,10 @@
 <h3 align="left">Connect with me:</h3>
-- [denweb.eu](https://denweb.eu)
-- [blog.denweb.eu](https://blog.denweb.eu)
-- **denis.culavdzic@gmail.com**
+
+[denweb.eu](https://denweb.eu)
+
+[blog.denweb.eu](https://blog.denweb.eu)
+
+**denis.culavdzic@gmail.com**
 
 <p align="left">
 <a href="https://linkedin.com/in/denisculavdzic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denisculavdzic" height="30" width="40" /></a>
